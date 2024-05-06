@@ -20,6 +20,8 @@ list_options = [{'label': u, 'value': u} for u in un]
 
 # app layout
 app = Dash(__name__)
+server = app.server
+
 app.layout = html.Div([
     html.Div([
         dcc.Dropdown(
