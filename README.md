@@ -4,4 +4,4 @@ Steps taken:
 1. Collecting the data.
 2. Data exploration and preprocessing.
 3. Data Analysis and hypothesis testing.
-4. Visualizing and presenting the findings and conclusions.
+4. Visualizing and presenting the findings and conclusions with Plotly Dash.
