@@ -1,4 +1,4 @@
-# mobile_sales_dashboard
+# Mobile Sales Dashboard
 The goal was to build a quick interactive dashboard to display the selling price and rating of mobile devices by brand and model to present findings in a presentation.
 Steps taken:
 1. Collecting the data.
